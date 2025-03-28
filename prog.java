@@ -1,4 +1,4 @@
-class demo1
+class prog
 {
 public static void main()
 {
